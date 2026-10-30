@@ -1,0 +1,4 @@
+# Ignore heavy raw uncompressed master videos
+_raw_master_videos/
+screenshots/
+*.log
